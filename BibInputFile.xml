@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<bibs>
+<bib>
+
+<book> <publisher> Addison-Wesley </publisher>
+ <author> Serge Abiteboul </author>
+ <author> <first-name> Rick </first-name>
+ <last-name> Hull </last-name>
+ </author>
+ <author> Victor Vianu </author>
+ <title> Foundations of Databases </title>
+ <year> 1995 </year>
+</book>
+
+<book price="55">
+ <publisher> Freeman </publisher>
+ <author> Jeffrey D. Ullman </author>
+ <title> Principles of Database and Knowledge Base Systems </title>
+ <year> 1998 </year>
+</book>
+</bib>
+
+
+<bib>
+<book> <publisher> Addison-Wesley </publisher>
+ <author> Rick Hull </author>
+ <author> <first-name> Jane </first-name>
+ <last-name> Widom </last-name>
+ <address><street> Pacific Coast Highway</street>
+ <zip> 90254</zip>
+ </address>
+ </author>
+ <author> Dan Suci </author>
+ <title> Implementation of Databases </title>
+ <year> 1998 </year>
+ </book>
+
+ <book price="100">
+ <publisher> Freeman </publisher>
+ <author><name> Jeffrey D. Ullman </name>
+ <address><street> 414 2nd St</street>
+ <zip> 90254</zip>
+ </address>
+ </author>
+ <title> Principles of Database and Knowledge Base Systems </title>
+ <year> 1998 </year>
+ </book>
+
+<paper price="15">
+ <publisher> ACM Press</publisher>
+ <author><name> Jeffrey Ullman </name>
+ <address><street> 200 Sepuveda</street>
+ <zip> 90245 </zip>
+ </address>
+ </author>
+ <title> Principles of Database and Knowledge Base Systems </title>
+ <year> 1998 </year>
+</paper>
+
+<paper price="10">
+ <publisher> IEEE Press </publisher>
+ <author> Jeffrey D. Ullman </author>
+ <title> Cloud Azure </title>
+ <year> 2010 </year>
+</paper>
+
+</bib>
+</bibs> 
